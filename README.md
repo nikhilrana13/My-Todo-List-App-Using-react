@@ -1,4 +1,7 @@
-# React + Vite
+
+
+My Todo List App 📝
+
 This is a simple and user-friendly to-do list application built with React. The app allows users to add, manage, and remove tasks from their to-do list. 
 It's a great starter project for anyone looking to practice React basics, including state management and event handling.
 
